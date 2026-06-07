@@ -15,3 +15,12 @@ v = function () {
 }; // function
 
 //*********** Type conversion**************//
+
+//stack(primitive),heap(non-primitive)
+
+let myIdNumber = "33"
+
+let myIdNumber = "45"
+console.log(myId);
+
+
